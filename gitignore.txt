@@ -1,1 +1,1 @@
-/classExamples/mainClass.java
+/classExamples
